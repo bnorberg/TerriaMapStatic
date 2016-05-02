@@ -20,7 +20,7 @@
         "supportEmail-CHANGETHIS": "help@example.com",
         "brandBarElements": [
             "",
-            "Brian' Site"
+            "Brian's Site"
         ],
         "corsProxyBaseUrl": "http://nationalmap.research.nicta.com.au/proxy/",
         "proxyableDomainsUrl": "http://preprod.nationalmap.gov.au/proxyabledomains/"
